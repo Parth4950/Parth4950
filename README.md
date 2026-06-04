@@ -173,9 +173,6 @@
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Parth4950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged" />
-&nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4950&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" />
 
 <br/><br/>
 
