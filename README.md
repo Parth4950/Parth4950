@@ -183,7 +183,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth4950&theme=tokyonight" width="100%"/>
 
 </div>
 
