@@ -205,7 +205,6 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Parth4950/Parth4950/output/github-snake.svg" />
 </picture>
 
-> ⚠️ Run the **Generate Snake** GitHub Action once manually to activate this.
 
 </div>
 
