@@ -77,53 +77,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="separator gif"/>
 </div>
 
-## 🚀 Featured Projects
 
-**🏥 AI Clinical Report Analysis System** — `Multi-Agent` · `NLP` · `Multimodal`
-
-✅ Engineered a **5-agent Agentic Workflow** for automated risk extraction from unstructured medical reports
-
-✅ Multimodal ingestion pipeline supporting **4 input types** — text, PDF, DOCX, images
-
-✅ Longitudinal tracking across **MIMIC-IV clinical datasets** via PostgreSQL
-
-✅ Real-time Streamlit dashboard with live risk scoring, trend monitoring & session-level audit trails
-
----
-
-**🎙️ Voice-Controlled Multi-Agent Desktop Automation** — `LLMs` · `Vision AI` · `Agentic`
-
-✅ Voice-controlled multi-agent AI assistant integrating **STT + Vision LLMs + context memory**
-
-✅ Fast-vs-AI dual-routing: **< 300ms** for deterministic tasks + LLM reasoning for complex workflows
-
-✅ Universal vision-based UI tutor — works across **any desktop application**
-
-✅ Reactive desktop UI with live transcripts, action logs, and robust session control
-
----
-
-**🔍 Fake Review Detection System** — `ML` · `NLP` · `Ensemble Learning`
-
-✅ Ensemble of **4 ML models** — Random Forest, Logistic Regression, SVM, Naive Bayes
-
-✅ Trained on **40K+ balanced reviews** with **5,000-dimensional TF-IDF** + sentiment features
-
-✅ End-to-end NLP pipeline with batch inference, confidence scoring, and integrated web scraping
-
-✅ Deployed via Streamlit with interactive fraud-analysis visualizations
-
----
-
-**🎾 Uttarakhand Tennis Association Platform** — `Full-Stack` · `React` · `Flask` · `AWS`
-
-✅ Production-ready platform with **7 responsive pages** and complete REST APIs
-
-✅ **35% API latency improvement** via SQL query tuning and connection pooling on AWS MySQL
-
-✅ Scalable 3-tier deployment: **React/TypeScript → Flask → AWS MySQL** (Vercel + Render)
-
----
 
 ## 💼 Experience
 
